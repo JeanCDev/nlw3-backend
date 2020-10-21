@@ -10,7 +10,7 @@ import routes from './routes';
 import errorHandler from './errors/handler';
 
 var corsOptions = {
-  origin: '*',
+  origin: 'https://nlw-3-happy.netlify.app',
   optionsSuccessStatus: 200
 }
 
